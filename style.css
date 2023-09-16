@@ -21,9 +21,20 @@ section ul li {
 
 table {
   border: 1px solid black;
-  margin-top: 20px;
+  margin: auto;
 
 }
+
+.tbprincipal {
+  margin-bottom: 20px;
+}
+
+.tbrelatorio {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+
 
 td {
   border: 1px solid black;
