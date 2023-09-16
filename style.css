@@ -8,17 +8,6 @@
 }
 
 
-section ul {
-  font-size: 20px;
-}
-
-section ul li {
-
-  padding: 20px;
-  list-style: none;
-}
-
-
 table {
   border: 1px solid black;
   margin: auto;
@@ -75,4 +64,5 @@ col.cvlentrada {
 
 col.cmes {
   writing-mode: vertical-lr;
+
 }
