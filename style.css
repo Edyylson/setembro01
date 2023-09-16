@@ -7,10 +7,6 @@
   padding: 0px;
 }
 
-body {
-  color: orange;
-}
-
 
 section ul {
   font-size: 20px;
@@ -57,11 +53,14 @@ img {
 }
 
 
-.cvalue2,
-.cvalue1 {
-  width: 100px;
-}
-
 article {
   margin-inline: 30px;
+}
+
+col.cvlsaida {
+  background-color: rgb(247, 81, 81);
+}
+
+col.cvlentrada {
+  background-color: rgb(156, 206, 156);
 }
