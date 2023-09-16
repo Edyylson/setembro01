@@ -8,10 +8,14 @@
 }
 
 
+article {
+  min-width: 330px;
+}
+
 table {
   border: 1px solid black;
   margin: auto;
-  min-width: 350px;
+  min-width: 320px;
 
 }
 
@@ -35,6 +39,10 @@ td {
 tr.linha {
   height: 30px;
   text-align: center;
+}
+
+tr.linhaset td.setembro {
+  color: red;
 }
 
 caption {
