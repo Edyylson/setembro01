@@ -39,10 +39,11 @@ table {
 td {
   border: 1px solid black;
   text-align: center;
+  width: 100px;
 }
 
-.linha {
-  height: 50px;
+tr.linha {
+  height: 30px;
   text-align: center;
 }
 
@@ -63,10 +64,6 @@ img {
   background-color: rgb(247, 81, 81);
 }
 
-
-article {
-  margin-inline: 30px;
-}
 
 col.cvlsaida {
   background-color: rgb(247, 81, 81);
