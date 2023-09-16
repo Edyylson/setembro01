@@ -8,15 +8,17 @@
 }
 
 
+body {
+  border: 1px solid pink;
+}
+
 article {
-  min-width: 330px;
-  margin-inline: 10px;
+  border: 1px solid blue;
 }
 
 table {
   border: 1px solid black;
   margin: auto;
-  min-width: 320px;
 
 }
 
@@ -42,9 +44,6 @@ tr.linha {
   text-align: center;
 }
 
-tr.linhaset td.setembro {
-  color: red;
-}
 
 caption {
   margin-top: 20px;
@@ -73,6 +72,6 @@ col.cvlentrada {
 }
 
 col.cmes {
-  writing-mode: vertical-lr;
+  writing-mode: vertical-rl;
 
 }
