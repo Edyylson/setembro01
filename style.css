@@ -10,6 +10,7 @@
 
 article {
   min-width: 330px;
+  width: 100%;
 }
 
 table {
